@@ -6,8 +6,8 @@ Play by navigating the bird through randomly generated pipes and aim for the hig
 ---
 
 ## 📸 Demo
-![Game Screenshot](images/screenshot.png)  
-*(Replace with your actual screenshot)*
+<img width="1918" height="893" alt="image" src="https://github.com/user-attachments/assets/35290800-f4ab-4761-95f1-36fb80b45220" />
+
 
 ---
 
@@ -32,10 +32,15 @@ Play by navigating the bird through randomly generated pipes and aim for the hig
 
 ## 📂 Project Structure
 ├── index.html # Main HTML file
+
 ├── style.css # Stylesheet
+
 ├── script.js # Game logic
+
 ├── images/ # Bird, background, and other assets
+
 ├── sounds effect/ # Game sound effects
+
 └── README.md # Project documentation
 
 ---
