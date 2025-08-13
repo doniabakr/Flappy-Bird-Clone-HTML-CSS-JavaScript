@@ -39,11 +39,11 @@ Play by navigating the bird through randomly generated pipes and aim for the hig
 
 ├── images/ # Bird postions
 
-│   ├── Bird.png
+│        ├── Bird.png
 
-│   ├── Bird-2.png
+│        ├── Bird-2.png
 
-│   └── favicon.ico
+│        └── favicon.ico
 
 ├── background-img.png
 
