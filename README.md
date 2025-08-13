@@ -32,15 +32,21 @@ Play by navigating the bird through randomly generated pipes and aim for the hig
 
 ## 📂 Project Structure
 project-root/
+
 │
 ├── images/
 │   ├── Bird.png
 │   ├── Bird-2.png
 │   └── favicon.ico
+
 ├── background-img.png
+
 ├── script.js
+
 ├── main.html
+
 ├── style.css
+
 └── README.md
 
 ---
