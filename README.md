@@ -1,2 +1,46 @@
-# Flappy-Bird-Clone-HTML-CSS-JavaScript
-A browser-based clone of the classic Flappy Bird game, built entirely with HTML, CSS, and vanilla JavaScript.
+# 🐦 Flappy Bird Clone – HTML, CSS & JavaScript
+
+A simple browser-based clone of the classic **Flappy Bird** game, built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
+Play by navigating the bird through randomly generated pipes and aim for the highest score possible!
+
+---
+
+## 📸 Demo
+![Game Screenshot](images/screenshot.png)  
+*(Replace with your actual screenshot)*
+
+---
+
+## 🎯 Features
+- Smooth animations using `requestAnimationFrame`
+- Dynamic obstacle generation
+- Collision detection
+- Score tracking
+- Responsive design for desktop and smaller screens
+- Simple and lightweight – no frameworks required
+
+---
+
+## 🎮 How to Play
+1. **Press `Enter`** to start the game.
+2. **Press `Arrow Up` or `Space`** to make the bird flap upwards.
+3. Avoid the pipes and the ground – every pipe you pass increases your score.
+4. When you hit a pipe or the ground, the game ends.
+5. Press `Enter` again to restart.
+
+---
+
+## 📂 Project Structure
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+├── script.js # Game logic
+├── images/ # Bird, background, and other assets
+├── sounds effect/ # Game sound effects
+└── README.md # Project documentation
+
+---
+
+## ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flappy-bird-clone.git
